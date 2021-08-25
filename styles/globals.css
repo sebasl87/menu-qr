@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "Allura";
+  src: url("/fonts/Allura/Allura-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
