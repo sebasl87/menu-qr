@@ -1,18 +1,13 @@
-import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Header from '../src/components/header'
+import ControlledAccordions from '../src/components/accordion'
 
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Head>
-        <title>Bartolomé</title>
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
-      </Head>
 
       <Header/>
-
+<ControlledAccordions/>
       <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
