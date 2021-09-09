@@ -1,0 +1,326 @@
+[
+    {
+        "id": 0,
+        "title": "Cafetería",
+        "rack": [
+            {
+                "name": "Espresso",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Espresso doble",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Espresso mediano",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Cappuccino",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Submarino",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Selección de Té",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Chocolate",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Nuestra Pastelería",
+        "rack": [
+            {
+                "name": "Croissant",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Croissant relleno de dulce de leche",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Croissant relleno con pastelera",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Croissant relleno con jamón y queso",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Mini tortas",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Brownie",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Crumble de manzana",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Budín de limón",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Budín de chocolate y naranja",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Pasta Frola",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Tarta de coco y dulce",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Degustación de bocaditos",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Nuestros Tostados Caseros",
+        "rack": [
+            {
+                "name": "Tostado de jamón y queso",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Tostada blanca (2 un.)",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Tostada integral con semillas (2 un.)",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Milkshake",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Helado de chocolate y brownie",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Banana, helado de americana y galletita Oreo",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Crema moka",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Frutos rojos",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Entradas",
+        "rack": [
+            {
+                "name": "Queso a la chapa con mix de hojas y reducción de acheto",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Rabas con mayonesa de ajo para compartir",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Pastel de centolla",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Sopa del dia",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Pizzetas",
+        "rack": [
+            {
+                "name": "Muzzarela",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Napolitana",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Jamon y morrones",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Mejillones al ajillo",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Americana",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Wok vegetales",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Empanadas",
+        "rack": [
+            {
+                "name": "Carne cortada a cuchillo con salsa criolla y limón",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Jamón y queso con dip de tomates confitados",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Mariscos con alioli de limón",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Sandwichería",
+        "rack": [
+            {
+                "name": "Hamburguesa completa con papas crocantes",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Tostado de jamón y queso",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Sandwich de pollo, queso cheddar,  cebolla caramelizada y mix de hojas con papas crocantes",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Sandwich de vegetales grillados, hummus de remolacha y queso azul con papas crocante",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Principales",
+        "rack": [
+            {
+                "name": "Bife de chorizo con salsa criolla, huevo frito y papas crocantes",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Pollo grillado al limón con puré de calabaza con semillas",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Milanesa de ternera con puré de papas",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Milanesa de pollo con ensalada de lechuga, tomate y zanahoria",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Milanesa de calabaza con arroz amarillo y arvejas",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Milanesa de ternera napolitana con puré de papas",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Milafuga de pollo con queso, panceta y huevo, con papas crocantes",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Milanesa de calabaza con crema de choclo y ensalada mix de hojas, zanahorias y tomates confitados",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Abadejo crema de cúrcuma, ajo y mejillones con puré de calabaza y tomillo",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Pastel de papas",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Wok de lomo, vegetales y arroz",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Wok de vegetales y fideos de arroz (vegano)",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Pastas",
+        "rack": [
+            {
+                "name": "Ñoquis de papas con salsa mixta",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Ravioles de ricota y jamón con salsa parisienne",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Fettuccine con salsa bolognesa",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Malfatti de espinaca y ricota con crema de brócoli y queso",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Lasagna",
+                "value": "Ars 150"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Postres",
+        "rack": [
+            {
+                "name": "Flan de dulce de leche, crema o mixto",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Ensalada de fruta",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Ensalada de fruta con ron y helado",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Brownie con helado y salsa de frutos rojos",
+                "value": "Ars 150"
+            },
+            {
+                "name": "Crumble de manzana con helado de frutos rojos",
+                "value": "Ars 150"
+            }
+        ]
+    }
+]
